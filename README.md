@@ -16,6 +16,7 @@ Lightning Games is a lightweight, high-performance game launcher that lives in t
 - 🎨 **11 Themes** - Neon, Retro, Minimal, Forest, Ocean + more
 - 🔔 **System Tray** - Open from anywhere with Ctrl+Alt+G
 - 🔊 **Synthesized Audio** - 25+ procedural sound effects
+- 📊 **Stats Tracking** - Play time, games played, streaks
 
 ---
 
@@ -57,6 +58,7 @@ bun start
 | [Build System](docs/build-system.md) | Build and deployment guide |
 | [Settings](docs/settings.md) | Theme, audio, performance settings |
 | [Troubleshooting](docs/troubleshooting.md) | FAQ and common issues |
+| [For Developers](docs/for-developers.md) | Contributing guide, code standards |
 
 ---
 
@@ -70,9 +72,39 @@ bun start
 
 ---
 
+## 👨‍💻 For Developers
+
+This project is open source and welcomes contributions! Check out our detailed [Developer Guide](docs/for-developers.md) for:
+
+- 🎮 How to add new games
+- 🎨 Code style and standards
+- 🐛 Bug reporting guidelines
+- 💡 Feature request process
+- 📝 Pull request workflow
+- 🧪 Testing guidelines
+- 🔧 Development environment setup
+
+### Quick Links
+
+- [Game Interface Contract](docs/for-developers.md#game-interface-contract)
+- [Adding a New Game](docs/for-developers.md#adding-a-new-game)
+- [Sound Manager](docs/for-developers.md#sound-manager)
+- [Build Scripts](docs/for-developers.md#build-scripts)
+- [Code Standards](docs/for-developers.md#code-standards)
+
+---
+
 ## 🤝 Contributing
 
-This project is open source. Feel free to open issues or submit pull requests.
+We welcome contributions! Please read our [Developer Guide](docs/for-developers.md) before submitting PRs.
+
+**Ways to contribute:**
+- 🐛 Report bugs
+- 💡 Suggest features
+- 🎮 Add new games
+- 🎨 Improve UI/UX
+- 📝 Improve documentation
+- 🔧 Fix bugs
 
 ---
 
